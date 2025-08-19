@@ -60,3 +60,18 @@ ISBN 978-3-938656-90-7
 Amadeus Verlag
 
 </blockquote>
+
+## scan
+
+jan-van-helsing.whistleblower.2016.300dpi.tiff.german.book.scan
+
+```
+magnet:?xt=urn:btih:9fc4de8e3a29fbbbd0059d6da68f1bfeeeaf1378&dn=jan-van-helsing.whistleblower.2016.300dpi.tiff.german.book.scan&xl=393686358&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&tr=udp%3A%2F%2F5.255.124.190%3A6969%2Fannounce&tr=udp%3A%2F%2F5.45.69.185%3A6969%2Fannounce&tr=http%3A%2F%2Fopentracker.r4sas.i2p%2Fa
+```
+
+## mirrors
+
+- https://github.com/milahu/jan-van-helsing-whistleblower
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/jan-van-helsing-whistleblower
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/jan-van-helsing-whistleblower
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/jan-van-helsing-whistleblower
