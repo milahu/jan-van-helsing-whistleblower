@@ -1,10 +1,10 @@
-Jan van Helsing - Whistleblower
+# Jan van Helsing - Whistleblower (2016)
 
 ![Jan van Helsing - Whistleblower](cover.webp)
 
 <blockquote>
 
-Jan van Helsing - Whistleblower
+Jan van Helsing, Stefan Erdmann - Whistleblower
 
 Insider aus Politik, Wirtschaft, Medizin, Polizei, Geheimdienst, Bundeswehr und Logentum packen aus!
 
