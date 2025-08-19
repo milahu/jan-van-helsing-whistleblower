@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/359.tiff"; bbox 0 0 1600 2493; ppageno 0; scan_res 300 300'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 0 0 1600 9"></div>
+   <div class='ocr_separator' id='block_1_2' title="bbox 2 0 1580 16"></div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 0 304 13 2048"></div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 56 161 562 217">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 56 161 562 217">
+     <span class='ocr_header' id='line_1_1' title="bbox 56 161 562 217; baseline 0.002 -14; x_size 56; x_descenders 14; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 56 161 562 217; x_wconf 90'>Bildquellenverzeichnis</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 162 267 1451 2166">
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 167 267 584 305">
+     <span class='ocr_line' id='line_1_2' title="bbox 167 267 584 305; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_2' title='bbox 167 267 342 296; x_wconf 90'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 349 270 397 304; x_wconf 93'>Jan</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 409 279 458 296; x_wconf 93'>van</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 470 267 584 305; x_wconf 92'>Helsing</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 167 327 584 366">
+     <span class='ocr_line' id='line_1_3' title="bbox 167 327 584 366; baseline 0 -10; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_6' title='bbox 167 327 341 356; x_wconf 91'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 349 330 397 364; x_wconf 93'>Jan</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 408 339 458 356; x_wconf 93'>van</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 470 328 584 366; x_wconf 91'>Helsing</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 167 387 584 426">
+     <span class='ocr_line' id='line_1_4' title="bbox 167 387 584 426; baseline 0.002 -11; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_10' title='bbox 167 387 341 416; x_wconf 92'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 349 390 397 424; x_wconf 93'>Jan</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 409 399 457 416; x_wconf 93'>van</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 470 387 584 426; x_wconf 92'>Helsing</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 166 447 584 486">
+     <span class='ocr_line' id='line_1_5' title="bbox 166 447 584 486; baseline 0 -10; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_14' title='bbox 166 447 341 476; x_wconf 92'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 349 450 397 484; x_wconf 93'>Jan</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 409 460 457 476; x_wconf 92'>van</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 470 447 584 486; x_wconf 91'>Helsing</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 167 507 589 537">
+     <span class='ocr_line' id='line_1_6' title="bbox 167 507 589 537; baseline 0 -1; x_size 38.209534; x_descenders 9.2095337; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_18' title='bbox 167 507 342 536; x_wconf 91'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 353 507 442 537; x_wconf 91'>Stefan</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 454 508 589 537; x_wconf 91'>Erdmann</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 166 567 790 605">
+     <span class='ocr_line' id='line_1_7' title="bbox 166 567 790 605; baseline 0.002 -9; x_size 38; x_descenders 8; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_21' title='bbox 166 567 790 605; x_wconf 49'>http://joconrad.de/bilder/ZollPolizei.JPG</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 166 627 333 657">
+     <span class='ocr_line' id='line_1_8' title="bbox 166 627 333 657; baseline 0.006 -2; x_size 38.209534; x_descenders 9.2095337; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_22' title='bbox 166 628 212 656; x_wconf 90'>Dr.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 225 627 299 656; x_wconf 89'>Mike</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 311 629 333 657; x_wconf 89'>S.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 166 687 590 717">
+     <span class='ocr_line' id='line_1_9' title="bbox 166 687 590 717; baseline 0 -1; x_size 39.209534; x_descenders 9.2095337; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_25' title='bbox 166 687 341 716; x_wconf 92'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 353 687 442 717; x_wconf 91'>Stefan</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 454 688 590 717; x_wconf 91'>Erdmann</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 165 748 265 785">
+     <span class='ocr_line' id='line_1_10' title="bbox 165 748 265 785; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_28' title='bbox 165 748 213 776; x_wconf 92'>wie</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 228 749 265 785; x_wconf 91'>(3)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 165 808 1393 966">
+     <span class='ocr_line' id='line_1_11' title="bbox 165 808 572 845; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_30' title='bbox 165 808 572 845; x_wconf 90'>www.mysteriousworld.com</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 166 867 1393 906; baseline 0 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_31' title='bbox 166 867 1393 906; x_wconf 88'>https://pranarupa.files.wordpress.com/2014/05/star-child-and-human-skulls-1.jpg</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 165 927 417 966; baseline 0.008 -11; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_32' title='bbox 165 927 417 966; x_wconf 92'>www.wikipdia.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 165 987 1219 1206">
+     <span class='ocr_line' id='line_1_14' title="bbox 165 987 576 1026; baseline 0.002 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_33' title='bbox 165 987 576 1026; x_wconf 91'>www.bibliotecapleyades.net</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 166 1047 1110 1086; baseline 0.001 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_34' title='bbox 166 1047 1110 1086; x_wconf 87'>http://thespiritscience.net/wp-content/uploads/2015/11/e4.jpg</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 166 1107 1219 1146; baseline 0.001 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_35' title='bbox 166 1107 1219 1146; x_wconf 83'>www.atlantisawake.com/modern-genetic-remnant-elongated-heads.jpg</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 166 1167 955 1206; baseline 0.001 -10; x_size 39; x_descenders 9; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_36' title='bbox 166 1167 955 1206; x_wconf 69'>https://i.ytimg.com/vi/xT8DwjbgBMc/hqdefault.jpg</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 162 1230 277 1265">
+     <span class='ocr_line' id='line_1_18' title="bbox 162 1230 277 1265; baseline 0 -9; x_size 35; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_37' title='bbox 162 1230 227 1265; x_wconf 88'>Jorg</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 236 1230 277 1257; x_wconf 87'>W.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 165 1287 553 1326">
+     <span class='ocr_line' id='line_1_19' title="bbox 165 1287 553 1326; baseline 0.005 -11; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_39' title='bbox 165 1287 553 1326; x_wconf 90'>www.desert-greening.com</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 165 1347 1447 1686">
+     <span class='ocr_line' id='line_1_20' title="bbox 165 1347 348 1385; baseline 0.005 -9; x_size 39; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_40' title='bbox 165 1347 252 1376; x_wconf 90'>Adam</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 261 1347 348 1385; x_wconf 92'>Jakob</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 165 1407 1437 1446; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_42' title='bbox 165 1407 1437 1446; x_wconf 54'>https://upload.wikimedia.org/wikipedia/commons/7/7¢/Fritz_Koenig_Denkmal_fue</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 165 1467 1175 1506; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_43' title='bbox 165 1467 1175 1506; x_wconf 20'>r_die_Opfer_des_Olympiaattentats</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 713 1463 788 1510; x_wconf 20'>1972</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 799 1463 874 1510; x_wconf 51'>1995</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 889 1467 1175 1506; x_wconf 88'>Olympiapark-2.jpg</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 165 1527 737 1566; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_47' title='bbox 165 1527 737 1566; x_wconf 89'>https://de.wikipedia.org/wiki/Xewkija</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 165 1587 1447 1627; baseline -0.001 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_48' title='bbox 165 1587 1447 1627; x_wconf 89'>https://upload.wikimedia.org/wikipedia/commons/c/c1/Washington_Monument_Du</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 165 1647 406 1686; baseline 0.004 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_49' title='bbox 165 1643 261 1690; x_wconf 64'>sk_Jan</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 278 1649 406 1686; x_wconf 64'>2006.jpg</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 164 1708 621 1746">
+     <span class='ocr_line' id='line_1_26' title="bbox 164 1708 621 1746; baseline 0.002 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_51' title='bbox 164 1708 252 1737; x_wconf 92'>Adam</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 261 1708 347 1745; x_wconf 92'>Jakob</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 362 1708 451 1746; x_wconf 92'>(Erich</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 463 1710 621 1746; x_wconf 92'>Neumann)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 164 1768 621 1806">
+     <span class='ocr_line' id='line_1_27' title="bbox 164 1768 621 1806; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_55' title='bbox 164 1768 252 1797; x_wconf 92'>Adam</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 260 1768 347 1805; x_wconf 92'>Jakob</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 362 1768 451 1805; x_wconf 91'>(Erich</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 463 1770 621 1806; x_wconf 92'>Neumann)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 164 1828 1451 2100">
+     <span class='ocr_line' id='line_1_28' title="bbox 165 1828 585 1867; baseline 0.002 -11; x_size 39; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_59' title='bbox 165 1828 341 1857; x_wconf 92'>Privatarchiv</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 349 1831 397 1865; x_wconf 92'>Jan</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 409 1840 457 1857; x_wconf 92'>van</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 470 1829 585 1867; x_wconf 92'>Helsing</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 165 1887 1444 1926; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_63' title='bbox 165 1887 1444 1926; x_wconf 83'>http://vignettel.wikia.nocookie.net/metalgear/images/a/a4/Area_51.jpg/revision/late</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 165 1948 517 1977; baseline 0 0; x_size 34.203522; x_descenders 8.2035236; x_ascenders 10.857006">
+      <span class='ocrx_word' id='word_1_64' title='bbox 165 1948 517 1977; x_wconf 27'>st?cb=20090710100354</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 164 2008 1451 2047; baseline -0.001 -10; x_size 38; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_65' title='bbox 164 2008 1451 2047; x_wconf 88'>http://vignette4.wikia.nocookie.net/alienfilm/images/e/ee/Grey_Alien_head.jpg/revis</span>
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 165 2068 634 2100; baseline 0 -3; x_size 38.209534; x_descenders 9.2095337; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_66' title='bbox 165 2068 634 2100; x_wconf 60'>ion/latest?cb=20130501012734</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_19' lang='eng' title="bbox 164 2128 1387 2166">
+     <span class='ocr_line' id='line_1_33' title="bbox 164 2128 1387 2166; baseline -0.001 -9; x_size 34; x_descenders 5; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_67' title='bbox 164 2128 260 2157; x_wconf 91'>Daniel</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 272 2129 359 2162; x_wconf 92'>Prinz,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 372 2130 473 2161; x_wconf 74'>,Wenn</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 485 2128 530 2157; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 543 2128 584 2157; x_wconf 92'>die</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 596 2128 754 2157; x_wconf 92'>Deutschen</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 765 2131 944 2162; x_wconf 77'>wiissten...“,</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 956 2128 1093 2158; x_wconf 90'>Amadeus</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1104 2128 1200 2166; x_wconf 93'>Verlag</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1211 2131 1288 2162; x_wconf 93'>2014,</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1301 2129 1323 2157; x_wconf 89'>S.</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1335 2131 1387 2157; x_wconf 96'>259</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 722 2276 778 2304">
+    <p class='ocr_par' id='par_1_20' lang='eng' title="bbox 722 2276 778 2304">
+     <span class='ocr_caption' id='line_1_34' title="bbox 722 2276 778 2304; baseline 0 0; x_size 38; x_descenders 9.5; x_ascenders 9.5">
+      <span class='ocrx_word' id='word_1_79' title='bbox 722 2276 778 2304; x_wconf 96'>359</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_7' title="bbox 1581 445 1600 2189"></div>
+   <div class='ocr_separator' id='block_1_8' title="bbox 176 2481 1598 2493"></div>
+   <div class='ocr_photo' id='block_1_9' title="bbox 0 2484 1600 2493"></div>
+  </div>
+ </body>
+</html>
