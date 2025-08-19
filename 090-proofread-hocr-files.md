@@ -10,3 +10,7 @@ but this could be fixed with little effort (inkscape does most of the work)
 - [hocr-editor-ts](https://github.com/milahu/hocr-editor-ts) is just an early draft (broken)
 - [HocrEditor](https://github.com/GeReV/HocrEditor) is windows-only because the dependencies are so old
 that the runtime requires dotnet6.0 which has [no desktop runtime for linux](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+
+could be useful
+
+- [WordPress gutenberg](https://github.com/WordPress/gutenberg) - richtext editor, wysiwyg, browser-based
