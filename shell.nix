@@ -21,5 +21,7 @@ mkShell {
     nur.repos.milahu.archive-hocr-tools
     # gImageReader
     # gImageReader-qt
+
+    prettier
   ];
 }
