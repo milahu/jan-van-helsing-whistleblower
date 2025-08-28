@@ -26,13 +26,13 @@
      <span class='ocr_line' id='line_1_2' title="bbox 170 316 1234 353; baseline -0.002 -8; x_size 36; x_descenders 8; x_ascenders 11">
       <span class='ocrx_word' id='word_1_6' title='bbox 170 317 241 345; x_wconf 92'>Buch</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 250 320 266 345; x_wconf 90'>3</span>
-      <span class='ocrx_word' id='word_1_8' title='bbox 275 335 292 338; x_wconf 78'>—-</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 275 335 292 338; x_wconf 78'>—</span>
       <span class='ocrx_word' id='word_1_9' title='bbox 300 319 355 345; x_wconf 92' lang='eng'>Der</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 362 319 449 345; x_wconf 92'>Dritte</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 461 316 598 353; x_wconf 92' lang='eng'>Weltkrieg</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 879 318 931 344; x_wconf 92'>Die</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 942 316 1124 352; x_wconf 92'>Cheops-Lüge</span>
-      <span class='ocrx_word' id='word_1_14' title='bbox 1146 317 1234 351; x_wconf 92'>(DVD)</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1134 317 1234 351; x_wconf 92'>(DVD)</span>
      </span>
     </p>
 
@@ -160,7 +160,7 @@
       <span class='ocrx_word' id='word_1_86' title='bbox 173 842 232 868; x_wconf 92'>Wer</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 240 840 286 868; x_wconf 92' lang='deu'>hat</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 293 842 375 877; x_wconf 92' lang='deu'>Angst</span>
-      <span class='ocrx_word' id='word_1_89' title='bbox 383 842 464 868; x_wconf 66' lang='deu'>vor‘m</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 383 842 464 868; x_wconf 66' lang='deu'>vor'm</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 474 839 619 868; x_wconf 92' lang='deu'>schwarzen</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 627 841 726 867; x_wconf 92'>Mann?</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 880 841 965 867; x_wconf 92' lang='deu'>Bevor</span>
@@ -237,7 +237,7 @@
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 568 1786 1087 1833; baseline -0.002 -11; x_size 47; x_descenders 12; x_ascenders 14">
       <span class='ocrx_word' id='word_1_127' title='bbox 568 1789 642 1823; x_wconf 89'>CPI</span>
-      <span class='ocrx_word' id='word_1_128' title='bbox 655 1810 677 1813; x_wconf 81'>-</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 655 1810 677 1813; x_wconf 81'>—</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 690 1787 797 1822; x_wconf 91'>Ebner</span>
       <span class='ocrx_word' id='word_1_130' title='bbox 811 1791 843 1822; x_wconf 92'>&amp;</span>
       <span class='ocrx_word' id='word_1_131' title='bbox 857 1786 992 1833; x_wconf 90'>Spiegel,</span>
