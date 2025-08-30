@@ -258,7 +258,7 @@
       <span class='ocrx_word' id='word_1_202' title='bbox 348 1341 420 1361; x_wconf 96' lang='eng'>zum</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 432 1327 499 1362; x_wconf 90' lang='eng'>Teil</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 512 1329 580 1361; x_wconf 92' lang='eng'>eine</span>
-      <span class='ocrx_word' id='word_1_205' title='bbox 594 1330 816 1372; x_wconf 76' lang='eng'>Liigenpresse.</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 594 1330 816 1372; x_wconf 76' lang='eng'>Lügenpresse.</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 156 1380 1412 1426; baseline -0.001 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_206' title='bbox 156 1383 220 1415; x_wconf 95' lang='eng'>Das</span>
@@ -270,7 +270,7 @@
       <span class='ocrx_word' id='word_1_212' title='bbox 775 1382 863 1415; x_wconf 96' lang='eng'>Mein</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 885 1381 1063 1415; x_wconf 96' lang='eng'>Informant</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 1084 1395 1160 1415; x_wconf 92' lang='eng'>vom</span>
-      <span class='ocrx_word' id='word_1_215' title='bbox 1180 1380 1412 1426; x_wconf 24' lang='eng'>Linderspiegel</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 1180 1380 1412 1426; x_wconf 24' lang='eng'>Länderspiegel</span>
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 160 1434 1412 1480; baseline 0 -12; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_216' title='bbox 160 1436 222 1479; x_wconf 93' lang='eng'>(ein</span>
@@ -327,6 +327,7 @@
       <span class='ocrx_word' id='word_1_259' title='bbox 794 1651 965 1685; x_wconf 96'>korrekten</span>
       <span class='ocrx_word' id='word_1_260' title='bbox 981 1650 1161 1684; x_wconf 93'>Redakteur</span>
       <span class='ocrx_word' id='word_1_261' title='bbox 1175 1673 1196 1675; x_wconf 89'>—</span>
+      <!-- hä? "diesen Profiteuren entsprechend"? -->
       <span class='ocrx_word' id='word_1_262' title='bbox 1211 1650 1318 1684; x_wconf 93' lang='eng'>diesen</span>
       <span class='ocrx_word' id='word_1_263' title='bbox 1335 1652 1411 1684; x_wconf 93' lang='eng'>Pro-</span>
      </span>
@@ -379,14 +380,14 @@
       <span class='ocrx_word' id='word_1_303' title='bbox 779 1866 858 1900; x_wconf 96' lang='eng'>bzw.</span>
       <span class='ocrx_word' id='word_1_304' title='bbox 877 1868 960 1900; x_wconf 92' lang='eng'>seine</span>
       <span class='ocrx_word' id='word_1_305' title='bbox 978 1866 1265 1900; x_wconf 93'>kontinuierlichen</span>
-      <span class='ocrx_word' id='word_1_306' title='bbox 1282 1865 1412 1899; x_wconf 87' lang='eng'>Auftri-</span>
+      <span class='ocrx_word' id='word_1_306' title='bbox 1282 1865 1412 1899; x_wconf 87' lang='eng'>Aufträ-</span>
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 156 1919 1412 1964; baseline 0 -10; x_size 45; x_descenders 10; x_ascenders 15">
       <span class='ocrx_word' id='word_1_307' title='bbox 156 1933 200 1964; x_wconf 95' lang='eng'>ge.</span>
       <span class='ocrx_word' id='word_1_308' title='bbox 219 1922 285 1954; x_wconf 96' lang='eng'>Der</span>
       <span class='ocrx_word' id='word_1_309' title='bbox 302 1921 388 1954; x_wconf 95' lang='eng'>Freie</span>
       <span class='ocrx_word' id='word_1_310' title='bbox 405 1920 488 1954; x_wconf 93' lang='eng'>kann</span>
-      <span class='ocrx_word' id='word_1_311' title='bbox 506 1920 659 1954; x_wconf 90' lang='eng'>natiirlich</span>
+      <span class='ocrx_word' id='word_1_311' title='bbox 506 1920 659 1954; x_wconf 90' lang='eng'>natürlich</span>
       <span class='ocrx_word' id='word_1_312' title='bbox 677 1934 735 1954; x_wconf 96' lang='eng'>nur</span>
       <span class='ocrx_word' id='word_1_313' title='bbox 752 1920 805 1954; x_wconf 96' lang='eng'>das</span>
       <span class='ocrx_word' id='word_1_314' title='bbox 824 1920 997 1960; x_wconf 96' lang='eng'>schreiben,</span>
