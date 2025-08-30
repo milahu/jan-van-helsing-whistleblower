@@ -95,7 +95,8 @@
       <span class='ocrx_word' id='word_1_63' title='bbox 375 600 452 634; x_wconf 96'>Film</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 475 614 548 634; x_wconf 96'>zum</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 567 600 687 634; x_wconf 93' lang='eng'>Thema</span>
-      <span class='ocrx_word' id='word_1_66' title='bbox 707 598 875 645; x_wconf 65'>gipfelte.‘”</span>
+      <!-- TODO can i use <sup> in hocr files? -->
+      <span class='ocrx_word' id='word_1_66' title='bbox 707 598 875 645; x_wconf 65'>gipfelte.<sup>(1)</sup></span>
       <span class='ocrx_word' id='word_1_67' title='bbox 897 603 966 634; x_wconf 96'>Erst</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 987 599 1028 634; x_wconf 96' lang='eng'>als</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 1049 599 1098 633; x_wconf 96' lang='eng'>ich</span>
@@ -320,7 +321,7 @@
      <span class='ocr_line' id='line_1_26' title="bbox 166 1567 1475 1614; baseline -0.002 -10; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_253' title='bbox 166 1571 359 1604; x_wconf 96'>Freimaurer</span>
       <span class='ocrx_word' id='word_1_254' title='bbox 372 1584 424 1604; x_wconf 91' lang='eng'>aus</span>
-      <span class='ocrx_word' id='word_1_255' title='bbox 440 1569 835 1614; x_wconf 71' lang='eng'>,,Geheimgesellschaften</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 440 1569 835 1614; x_wconf 71' lang='eng'>„Geheimgesellschaften</span>
       <span class='ocrx_word' id='word_1_256' title='bbox 850 1573 865 1603; x_wconf 92' lang='eng'>3</span>
       <span class='ocrx_word' id='word_1_257' title='bbox 880 1592 900 1594; x_wconf 79' lang='eng'>—</span>
       <span class='ocrx_word' id='word_1_258' title='bbox 913 1570 1007 1614; x_wconf 96' lang='eng'>Krieg</span>
@@ -331,7 +332,7 @@
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 166 1622 1476 1668; baseline -0.002 -10; x_size 45; x_descenders 10; x_ascenders 15">
       <span class='ocrx_word' id='word_1_263' title='bbox 166 1624 269 1658; x_wconf 91' lang='eng'>terhin</span>
-      <span class='ocrx_word' id='word_1_264' title='bbox 288 1623 462 1668; x_wconf 89' lang='eng'>verfiigbar.</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 288 1623 462 1668; x_wconf 89' lang='eng'>verfügbar.</span>
       <span class='ocrx_word' id='word_1_265' title='bbox 484 1624 538 1658; x_wconf 93' lang='eng'>Ich</span>
       <span class='ocrx_word' id='word_1_266' title='bbox 558 1624 675 1658; x_wconf 91' lang='eng'>betone</span>
       <span class='ocrx_word' id='word_1_267' title='bbox 696 1623 759 1657; x_wconf 93' lang='eng'>dies</span>
@@ -339,7 +340,7 @@
       <span class='ocrx_word' id='word_1_269' title='bbox 937 1623 1006 1657; x_wconf 96' lang='eng'>weil</span>
       <span class='ocrx_word' id='word_1_270' title='bbox 1027 1637 1057 1657; x_wconf 96' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_271' title='bbox 1078 1622 1161 1657; x_wconf 91' lang='eng'>doch</span>
-      <span class='ocrx_word' id='word_1_272' title='bbox 1181 1622 1364 1657; x_wconf 91' lang='eng'>tatsichlich</span>
+      <span class='ocrx_word' id='word_1_272' title='bbox 1181 1622 1364 1657; x_wconf 91' lang='eng'>tatsächlich</span>
       <span class='ocrx_word' id='word_1_273' title='bbox 1385 1624 1476 1656; x_wconf 91' lang='eng'>Leser</span>
      </span>
      <span class='ocr_line' id='line_1_28' title="bbox 167 1675 1476 1722; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
