@@ -122,7 +122,7 @@
      <span class='ocr_line' id='line_1_10' title="bbox 223 780 1472 826; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_87' title='bbox 223 795 370 815; x_wconf 92' lang='eng'>unserem</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 383 781 603 826; x_wconf 92'>polizeilichen</span>
-      <span class='ocrx_word' id='word_1_89' title='bbox 616 781 997 826; x_wconf 90' lang='eng'>Zustindigkeitsbereich</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 616 781 997 826; x_wconf 90' lang='eng'>Zuständigkeitsbereich</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 1011 781 1111 815; x_wconf 96' lang='eng'>haben</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1124 781 1249 815; x_wconf 92' lang='eng'>werden</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 1261 803 1281 806; x_wconf 68'>—</span>
@@ -131,7 +131,7 @@
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 224 833 1473 880; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_95' title='bbox 224 834 285 869; x_wconf 93' lang='eng'>den</span>
-      <span class='ocrx_word' id='word_1_96' title='bbox 303 835 503 869; x_wconf 92' lang='eng'>Auslindern</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 303 835 503 869; x_wconf 92' lang='eng'>Ausländern</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 522 835 587 869; x_wconf 93' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 607 835 836 880; x_wconf 91' lang='eng'>entsprechend</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 856 836 912 869; x_wconf 96' lang='eng'>mit</span>
@@ -334,7 +334,7 @@
       <span class='ocrx_word' id='word_1_261' title='bbox 471 1778 513 1811; x_wconf 96'>sie</span>
       <span class='ocrx_word' id='word_1_262' title='bbox 530 1790 581 1821; x_wconf 96'>gar</span>
       <span class='ocrx_word' id='word_1_263' title='bbox 595 1776 682 1811; x_wconf 93'>nicht</span>
-      <span class='ocrx_word' id='word_1_264' title='bbox 698 1776 901 1821; x_wconf 50'>hingehéren.</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 698 1776 901 1821; x_wconf 50'>hingehören.</span>
       <span class='ocrx_word' id='word_1_265' title='bbox 918 1778 979 1810; x_wconf 92'>Die</span>
       <span class='ocrx_word' id='word_1_266' title='bbox 991 1776 1201 1820; x_wconf 96' lang='deu'>Journalisten</span>
       <span class='ocrx_word' id='word_1_267' title='bbox 1217 1776 1361 1810; x_wconf 96' lang='deu'>könnten</span>
