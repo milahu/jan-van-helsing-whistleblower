@@ -190,7 +190,7 @@
       <span class='ocrx_word' id='word_1_144' title='bbox 625 1049 674 1083; x_wconf 92'>die</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 692 1049 865 1093; x_wconf 92'>Asylanten</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 884 1050 915 1083; x_wconf 95'>in</span>
-      <span class='ocrx_word' id='word_1_147' title='bbox 932 1040 1119 1094; x_wconf 55'>|||</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 932 1040 1119 1094; x_wconf 55'>XXX</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 1137 1048 1385 1083; x_wconf 85'>schwarzfahren</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 1403 1048 1481 1082; x_wconf 95'>bzw.</span>
      </span>
@@ -228,10 +228,10 @@
       <span class='ocrx_word' id='word_1_176' title='bbox 1097 1210 1165 1244; x_wconf 96'>dass</span>
       <span class='ocrx_word' id='word_1_177' title='bbox 1184 1224 1214 1244; x_wconf 96'>es</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 1232 1211 1259 1253; x_wconf 92'>ja</span>
-      <span class='ocrx_word' id='word_1_179' title='bbox 1275 1209 1484 1253; x_wconf 87'>unanstindig</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1275 1209 1484 1253; x_wconf 87'>unanständig</span>
      </span>
      <span class='ocr_line' id='line_1_19' title="bbox 230 1263 1485 1309; baseline -0.001 -11; x_size 40; x_descenders 6; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_180' title='bbox 230 1270 320 1304; x_wconf 96'>wire,</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 230 1270 320 1304; x_wconf 96'>wäre,</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 342 1278 434 1298; x_wconf 95'>wenn</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 456 1264 505 1298; x_wconf 93'>die</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 526 1264 701 1309; x_wconf 92'>Asylanten</span>
@@ -247,7 +247,7 @@
       <span class='ocrx_word' id='word_1_191' title='bbox 401 1318 655 1358; x_wconf 88'>Arbeitnehmer,</span>
       <span class='ocrx_word' id='word_1_192' title='bbox 686 1318 763 1352; x_wconf 95'>auch</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 793 1318 847 1352; x_wconf 93'>der</span>
-      <span class='ocrx_word' id='word_1_194' title='bbox 876 1317 1247 1363; x_wconf 89'>Sozialhilfeempfinger,</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 876 1317 1247 1363; x_wconf 89'>Sozialhilfeempfänger,</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 1278 1331 1362 1352; x_wconf 96'>muss</span>
       <span class='ocrx_word' id='word_1_196' title='bbox 1394 1318 1484 1351; x_wconf 96'>einen</span>
      </span>
@@ -293,7 +293,7 @@
       <span class='ocrx_word' id='word_1_226' title='bbox 1363 1532 1484 1572; x_wconf 96' lang='eng'>Ticket,</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 231 1586 1485 1622; baseline -0.001 -1; x_size 45.009552; x_descenders 11.009551; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_227' title='bbox 231 1594 360 1621; x_wconf 93' lang='eng'>miissen</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 231 1594 360 1621; x_wconf 93' lang='eng'>müssen</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 378 1588 451 1622; x_wconf 96' lang='eng'>aber</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 469 1587 552 1622; x_wconf 96' lang='eng'>dann</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 571 1588 619 1622; x_wconf 95' lang='eng'>die</span>
