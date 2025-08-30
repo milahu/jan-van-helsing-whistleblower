@@ -16,12 +16,12 @@ mkShell {
     # hunspellDicts.en-us
 
     # hocr editors
-    nur.repos.milahu.scribeocr
+    # nur.repos.milahu.scribeocr
     # hocr-tools
-    nur.repos.milahu.archive-hocr-tools
+    # nur.repos.milahu.archive-hocr-tools
     # gImageReader
     # gImageReader-qt
 
-    prettier
+    # prettier
   ];
 }
