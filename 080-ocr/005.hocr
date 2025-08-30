@@ -18,7 +18,12 @@
       <span class='ocrx_word' id='word_1_3' title='bbox 767 243 1187 333; x_wconf 95' lang='eng'>HELSING</span>
      </span>
      <span class='ocr_line' id='line_1_2' title="bbox 509 411 983 459; baseline -0.002 0; x_size 57.96154; x_descenders 9.5; x_ascenders 10.230769">
-      <span class='ocrx_word' id='word_1_4' title='bbox 509 411 983 459; x_wconf 89'>STEFANERDMANN</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 509 411 703 459; x_wconf 89'>STEFAN</span>
+      <span class='ocrx_word' id='word_1_4b' title='bbox 730 409 982 457; x_wconf 89'>ERDMANN</span>
+     </span>
+     <span class='ocr_line' id='line_1_2b'>
+      <span class='ocrx_word' id='word_Tr72AN9v_1_1' title='bbox 291 772 1193 1053'>WHISTLE</span>
+      <span class='ocrx_word' id='word_Tr72AN9v_1_1b' title='bbox 224 1100 1275 1453'>BLOWER</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 297 1656 1201 1713; baseline 0 -9; x_size 57.442657; x_descenders 9.4426556; x_ascenders 10">
       <span class='ocrx_word' id='word_1_5' title='bbox 297 1657 429 1704; x_wconf 96'>Insider</span>
