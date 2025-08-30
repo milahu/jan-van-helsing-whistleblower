@@ -13,20 +13,21 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 122 126 1577 212">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 122 126 1577 212">
      <span class='ocr_line' id='line_1_1' title="bbox 122 126 1577 212; baseline 0.001 -1; x_size 112.4; x_descenders 28.1; x_ascenders 28.1">
-      <span class='ocrx_word' id='word_1_1' title='bbox 122 126 391 211; x_wconf 91'>Jan</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 493 126 790 210; x_wconf 91'>van</span>
-      <span class='ocrx_word' id='word_1_3' title='bbox 896 126 1577 212; x_wconf 92'>Helsing</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 122 126 391 211; x_wconf 91'>JAN</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 493 126 790 210; x_wconf 91'>VAN</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 896 126 1577 212; x_wconf 92'>HELSING</span>
+     </span>
+     <span class='ocr_line' id='line_1_1b'>
+      <span class='ocrx_word' id='word_1_1b' title='bbox 431 289 771 371; x_wconf 91'>STEFAN</span>
+      <span class='ocrx_word' id='word_1_2b' title='bbox 806 293 1270 375; x_wconf 91'>ERDMANN</span>
      </span>
     </p>
    </div>
-   <!-- TODO Stefan Erdmann -->
    <div class='ocr_carea' id='block_1_2' title="bbox 120 776 1588 1712">
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 120 776 1588 1712">
      <span class='ocr_line' id='line_1_2' title="bbox 257 776 1419 1148; baseline 0.001 -3; x_size 649.5; x_descenders 183.5; x_ascenders 99">
-      <span class='ocrx_word' id='word_1_4' title='bbox 257 776 1419 1148; x_wconf 90'>Whistle</span>
-     </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 120 1240 1588 1712; baseline 0.01 -17; x_size 649.5; x_descenders 183.5; x_ascenders 99">
-      <span class='ocrx_word' id='word_1_5' title='bbox 120 1240 1588 1712; x_wconf 66' lang='deu'>Blower</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 257 776 1419 1148; x_wconf 90'>WHISTLE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 120 1240 1588 1712; x_wconf 66' lang='deu'>BLOWER</span>
      </span>
     </p>
    </div>
@@ -47,6 +48,9 @@
       <span class='ocrx_word' id='word_1_15' title='bbox 977 2156 1213 2228; x_wconf 91'>Logentum</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1236 2156 1412 2228; x_wconf 91'>packen</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1433 2155 1537 2217; x_wconf 91'>aus!</span>
+     </span>
+     <span class='ocr_line' id='line_1_5b'>
+      <span class='ocrx_word' id='word_1_12b' title='bbox 24 2102 68 2496; x_wconf 92'>amadeus-verlag.com</span>
      </span>
     </p>
    </div>
