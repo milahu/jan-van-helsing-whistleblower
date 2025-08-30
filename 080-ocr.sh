@@ -20,6 +20,8 @@ ocr_lang=deu+eng
 img_format=jpg # must be compatible with the hocr-editor
 img_quality=20%
 
+./tessdata_best.sh $(echo "$ocr_lang" | tr '+' ' ')
+
 # the page image path is relative to the workdir
 # <div class='ocr_page' id='page_1' title='image "../070-deskew/005.tiff"; ...'>
 # patch paths:
@@ -41,8 +43,9 @@ for inp in ../"$src"/*."$scan_format"; do
   out1=$out.hocr
   if ! [ -e $out1 ]; then
     # TODO? use OCRopus https://github.com/ocropus-archive/DUP-ocropy
-    echo + tesseract --dpi "$scan_resolution" $inp - -l "$ocr_lang" hocr
-    tesseract --dpi "$scan_resolution" $inp - -l "$ocr_lang" hocr >$out1
+    echo + \
+    tesseract "$inp" - -c tessedit_create_hocr=1 --dpi "$scan_resolution" -l "$ocr_lang" --oem 1 --psm 6 --tessdata-dir ../tessdata_best
+    tesseract "$inp" - -c tessedit_create_hocr=1 --dpi "$scan_resolution" -l "$ocr_lang" --oem 1 --psm 6 --tessdata-dir ../tessdata_best >$out1
   fi
 
   if false; then
