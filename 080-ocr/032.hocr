@@ -74,7 +74,7 @@
       <span class='ocrx_word' id='word_1_49' title='bbox 287 512 326 545; x_wconf 96' lang='eng'>ist</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 343 510 409 545; x_wconf 96' lang='eng'>klar</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 425 511 473 545; x_wconf 93' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_52' title='bbox 492 511 624 545; x_wconf 92' lang='eng'>stirkste</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 492 511 624 545; x_wconf 92' lang='eng'>stärkste</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 641 511 800 551; x_wconf 89' lang='eng'>Fraktion,</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 818 511 890 545; x_wconf 97' lang='eng'>aber</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 906 511 954 545; x_wconf 96' lang='eng'>die</span>
@@ -139,8 +139,7 @@
       <span class='ocrx_word' id='word_1_104' title='bbox 808 780 880 814; x_wconf 96'>hieß</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 899 794 929 814; x_wconf 96' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 948 795 1006 814; x_wconf 84' lang='eng'>nur</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 1020 809 1034 820; x_wconf 40' lang='eng'>,</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 1042 783 1254 819; x_wconf 89' lang='eng'>Vermummte,</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1018 783 1254 821; x_wconf 89' lang='eng'>„Vermummte,</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1276 783 1466 814; x_wconf 91' lang='eng'>Vermumm-</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 216 832 1468 872; baseline 0 -5; x_size 40; x_descenders 5; x_ascenders 15">
@@ -149,7 +148,7 @@
       <span class='ocrx_word' id='word_1_112' title='bbox 376 836 467 868; x_wconf 96' lang='eng'>Wort</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 488 833 605 872; x_wconf 96'>„links“</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 626 834 702 868; x_wconf 92' lang='eng'>oder</span>
-      <span class='ocrx_word' id='word_1_115' title='bbox 722 834 959 872; x_wconf 50' lang='eng'>,linksextrem®</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 722 834 959 872; x_wconf 50' lang='eng'>„linksextrem“</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 980 834 1050 868; x_wconf 96' lang='eng'>kam</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 1070 835 1101 867; x_wconf 92' lang='eng'>in</span>
       <span class='ocrx_word' id='word_1_118' title='bbox 1121 833 1304 868; x_wconf 96'>sämtlichen</span>
@@ -162,7 +161,7 @@
       <span class='ocrx_word' id='word_1_123' title='bbox 505 888 596 922; x_wconf 96' lang='eng'>stand</span>
       <span class='ocrx_word' id='word_1_124' title='bbox 617 888 654 922; x_wconf 92' lang='eng'>da</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 672 890 845 928; x_wconf 78'>„Neonazis</span>
-      <span class='ocrx_word' id='word_1_126' title='bbox 864 888 1032 928; x_wconf 23' lang='eng'>haben...,</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 864 888 1032 928; x_wconf 23' lang='eng'>haben...“,</span>
       <span class='ocrx_word' id='word_1_127' title='bbox 1053 888 1118 922; x_wconf 95' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_128' title='bbox 1139 888 1221 922; x_wconf 96' lang='eng'>dann</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 1242 887 1332 922; x_wconf 96' lang='eng'>stand</span>
@@ -171,8 +170,7 @@
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 217 941 1468 987; baseline -0.001 -12; x_size 40; x_descenders 5; x_ascenders 15">
       <span class='ocrx_word' id='word_1_132' title='bbox 217 941 302 975; x_wconf 88' lang='eng'>noch</span>
-      <span class='ocrx_word' id='word_1_133' title='bbox 313 970 328 981; x_wconf 56' lang='eng'>,</span>
-      <span class='ocrx_word' id='word_1_134' title='bbox 335 944 543 976; x_wconf 68' lang='eng'>Vermummte</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 312 944 543 983; x_wconf 68' lang='eng'>„Vermummte</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 555 941 715 976; x_wconf 68' lang='eng'>haben...“</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 727 945 796 976; x_wconf 95'>Erst</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 811 956 859 976; x_wconf 93' lang='eng'>am</span>
@@ -329,8 +327,7 @@
       <span class='ocrx_word' id='word_1_262' title='bbox 835 1721 929 1755; x_wconf 96'>heute</span>
       <span class='ocrx_word' id='word_1_263' title='bbox 945 1733 1010 1766; x_wconf 96'>sagt</span>
       <span class='ocrx_word' id='word_1_264' title='bbox 1025 1735 1106 1755; x_wconf 96'>man:</span>
-      <span class='ocrx_word' id='word_1_265' title='bbox 1120 1750 1134 1761; x_wconf 57' lang='eng'>,,</span>
-      <span class='ocrx_word' id='word_1_266' title='bbox 1133 1724 1214 1764; x_wconf 74' lang='eng'>Jetzt</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 1119 1724 1214 1764; x_wconf 74' lang='eng'>„Jetzt</span>
       <span class='ocrx_word' id='word_1_267' title='bbox 1226 1720 1327 1755; x_wconf 96' lang='eng'>stellen</span>
       <span class='ocrx_word' id='word_1_268' title='bbox 1341 1723 1384 1754; x_wconf 93' lang='eng'>sie</span>
       <span class='ocrx_word' id='word_1_269' title='bbox 1396 1722 1468 1754; x_wconf 92'>wie-</span>
