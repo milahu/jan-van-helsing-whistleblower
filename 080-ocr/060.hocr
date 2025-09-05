@@ -51,10 +51,10 @@
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 218 377 1466 424; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_32' title='bbox 218 380 265 413; x_wconf 96' lang='eng'>Sie</span>
-      <span class='ocrx_word' id='word_1_33' title='bbox 284 379 337 412; x_wconf 96' lang='eng'>Thr</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 284 379 337 412; x_wconf 96' lang='eng'>Ihr</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 355 382 443 413; x_wconf 96'>Haus</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 462 379 619 424; x_wconf 95'>komplett</span>
-      <span class='ocrx_word' id='word_1_36' title='bbox 638 379 792 413; x_wconf 91' lang='eng'>dimmen.</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 638 379 792 413; x_wconf 91' lang='eng'>dämmen.</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 810 381 912 413; x_wconf 96' lang='eng'>Wenn</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 931 380 977 413; x_wconf 96' lang='eng'>Sie</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 995 378 1047 412; x_wconf 96' lang='eng'>das</span>
@@ -66,9 +66,9 @@
      <span class='ocr_line' id='line_1_5' title="bbox 218 430 1465 478; baseline -0.002 -11; x_size 46; x_descenders 11; x_ascenders 15">
       <span class='ocrx_word' id='word_1_44' title='bbox 218 433 305 467; x_wconf 96' lang='eng'>nicht</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 323 446 378 467; x_wconf 93' lang='eng'>zur</span>
-      <span class='ocrx_word' id='word_1_46' title='bbox 393 432 579 478; x_wconf 89' lang='eng'>Verfiigung</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 393 432 579 478; x_wconf 89' lang='eng'>Verfügung</span>
       <span class='ocrx_word' id='word_1_47' title='bbox 595 432 706 472; x_wconf 93' lang='eng'>haben,</span>
-      <span class='ocrx_word' id='word_1_48' title='bbox 724 439 851 467; x_wconf 89' lang='eng'>miissen</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 724 439 851 467; x_wconf 89' lang='eng'>müssen</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 867 434 914 467; x_wconf 96' lang='eng'>Sie</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 931 433 979 466; x_wconf 96' lang='eng'>bei</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 997 432 1050 466; x_wconf 96' lang='eng'>der</span>
@@ -88,7 +88,8 @@
       <span class='ocrx_word' id='word_1_63' title='bbox 1079 485 1193 520; x_wconf 96' lang='eng'>wieder</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 1208 487 1239 519; x_wconf 95' lang='eng'>in</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 1255 486 1322 520; x_wconf 93' lang='eng'>eine</span>
-      <span class='ocrx_word' id='word_1_66' title='bbox 1337 484 1466 518; x_wconf 80' lang='eng'>Anhin-</span>
+      <!-- NOTE fixed typo: Anhängigkeit -> Abhängigkeit -->
+      <span class='ocrx_word' id='word_1_66' title='bbox 1337 484 1466 518; x_wconf 80' lang='eng'>Abhän-</span>
      </span>
      <span class='ocr_line' id='line_1_7' title="bbox 219 539 1466 585; baseline -0.002 -10; x_size 44; x_descenders 10; x_ascenders 14">
       <span class='ocrx_word' id='word_1_67' title='bbox 219 541 343 585; x_wconf 91' lang='eng'>gigkeit.</span>
@@ -114,7 +115,7 @@
       <span class='ocrx_word' id='word_1_85' title='bbox 611 594 663 628; x_wconf 89' lang='eng'>Ihr</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 679 597 767 628; x_wconf 93' lang='eng'>Haus</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 783 593 951 628; x_wconf 92' lang='eng'>verkaufen</span>
-      <span class='ocrx_word' id='word_1_88' title='bbox 969 600 1095 628; x_wconf 88' lang='eng'>miissen</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 969 600 1095 628; x_wconf 88' lang='eng'>müssen</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 1110 616 1131 618; x_wconf 91' lang='eng'>—</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 1145 607 1236 627; x_wconf 96' lang='eng'>wenn</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1254 594 1300 627; x_wconf 96' lang='eng'>Sie</span>
@@ -358,7 +359,7 @@
       <span class='ocrx_word' id='word_1_291' title='bbox 510 1620 675 1652; x_wconf 96'>Interview</span>
       <span class='ocrx_word' id='word_1_292' title='bbox 688 1631 758 1652; x_wconf 96'>zum</span>
       <span class='ocrx_word' id='word_1_293' title='bbox 777 1617 888 1652; x_wconf 93' lang='eng'>Thema</span>
-      <span class='ocrx_word' id='word_1_294' title='bbox 903 1616 1133 1662; x_wconf 87' lang='eng'>Dimm-Mafia</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 903 1616 1133 1662; x_wconf 87' lang='eng'>Dämm-Mafia</span>
       <span class='ocrx_word' id='word_1_295' title='bbox 1146 1616 1269 1662; x_wconf 96'>geführt,</span>
       <span class='ocrx_word' id='word_1_296' title='bbox 1285 1616 1409 1651; x_wconf 96'>welches</span>
       <span class='ocrx_word' id='word_1_297' title='bbox 1424 1615 1470 1649; x_wconf 96'>ich</span>
