@@ -254,6 +254,9 @@
       <span class='ocrx_word' id='word_1_203' title='bbox 793 1197 827 1229; x_wconf 96'>in</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 841 1195 1022 1230; x_wconf 96'>Sicherheit</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 1036 1194 1213 1239; x_wconf 96'>gebracht.)</span>
+      <!-- Pff, der "sicherste" Ort für solche Informationen ist Nirgendwo.
+       Solche Spuren soll man vernichten.
+      -->
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 177 1300 1484 1348; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 13">
       <span class='ocrx_word' id='word_1_206' title='bbox 177 1303 249 1337; x_wconf 96'>Gab</span>
@@ -393,7 +396,7 @@
       <span class='ocrx_word' id='word_1_318' title='bbox 962 1920 1039 1954; x_wconf 96'>wird</span>
       <span class='ocrx_word' id='word_1_319' title='bbox 1052 1920 1176 1954; x_wconf 95'>Brüssel</span>
       <span class='ocrx_word' id='word_1_320' title='bbox 1190 1934 1292 1965; x_wconf 93' lang='eng'>sagen:</span>
-      <span class='ocrx_word' id='word_1_321' title='bbox 1305 1922 1399 1962; x_wconf 86'>„fetzt</span>
+      <span class='ocrx_word' id='word_1_321' title='bbox 1305 1922 1399 1962; x_wconf 86'>„Jetzt</span>
       <span class='ocrx_word' id='word_1_322' title='bbox 1409 1918 1486 1953; x_wconf 92'>schi-</span>
      </span>
      <span class='ocr_line' id='line_1_32' title="bbox 231 1972 1484 2019; baseline -0.002 -10; x_size 45; x_descenders 11; x_ascenders 14">
