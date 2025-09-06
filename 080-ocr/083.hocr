@@ -11,44 +11,16 @@
  <body>
   <div class='ocr_page' id='page_1' title='image "../070-deskew/083.tiff"; bbox 0 0 1592 2488; ppageno 0; scan_res 300 300'>
    <div class='ocr_carea' id='block_1_1' title="bbox 91 623 1409 2288">
+<!-- TODO images -->
+<!-- images caption: -->
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 91 623 1409 2288">
-     <span class='ocr_line' id='line_1_1' title="bbox 1149 623 1220 640; baseline -0.014 0; x_size 20.605272; x_descenders 4.6052723; x_ascenders 6.5395865">
-      <span class='ocrx_word' id='word_1_1' title='bbox 1149 635 1152 640; x_wconf 23'>RB</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 1187 623 1220 639; x_wconf 17'>AR</span>
-     </span>
-     <span class='ocr_line' id='line_1_2' title="bbox 273 740 1404 816; baseline 0.001 -25; x_size 48; x_descenders 14; x_ascenders 10">
-      <span class='ocrx_word' id='word_1_3' title='bbox 273 760 515 794; x_wconf 18'>PR</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 639 768 738 789; x_wconf 25' lang='eng'>Aru</span>
-      <span class='ocrx_word' id='word_1_5' title='bbox 773 740 902 806; x_wconf 23' lang='eng'>ER</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 1007 740 1404 816; x_wconf 21' lang='eng'>mae</span>
-     </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 285 776 1404 855; baseline -0.004 1; x_size 115.94542; x_descenders 28; x_ascenders 35.945415">
-      <span class='ocrx_word' id='word_1_7' title='bbox 285 820 286 823; x_wconf 70'>|</span>
-      <span class='ocrx_word' id='word_1_8' title='bbox 711 776 1404 856; x_wconf 37'>11H</span>
-     </span>
-     <span class='ocr_line' id='line_1_4' title="bbox 655 876 1400 915; baseline -0.001 -17; x_size 20; x_descenders 3; x_ascenders 5">
-      <span class='ocrx_word' id='word_1_9' title='bbox 655 894 658 898; x_wconf 43'>A</span>
-      <span class='ocrx_word' id='word_1_10' title='bbox 699 893 701 897; x_wconf 81' lang='eng'>y</span>
-      <span class='ocrx_word' id='word_1_11' title='bbox 774 882 833 905; x_wconf 11' lang='eng'>[abel</span>
-      <span class='ocrx_word' id='word_1_12' title='bbox 844 876 876 915; x_wconf 14' lang='eng'>Aly</span>
-      <span class='ocrx_word' id='word_1_13' title='bbox 885 884 899 910; x_wconf 24' lang='eng'>4</span>
-      <span class='ocrx_word' id='word_1_14' title='bbox 914 880 944 911; x_wconf 46' lang='eng'>i</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 962 883 976 904; x_wconf 33' lang='eng'>x</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 1024 882 1086 906; x_wconf 32' lang='eng'>CA</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1151 882 1161 903; x_wconf 0' lang='eng'>A</span>
-      <span class='ocrx_word' id='word_1_18' title='bbox 1179 881 1206 904; x_wconf 52' lang='eng'>pi</span>
-      <span class='ocrx_word' id='word_1_19' title='bbox 1228 885 1244 902; x_wconf 32' lang='eng'>A</span>
-      <span class='ocrx_word' id='word_1_20' title='bbox 1270 882 1290 908; x_wconf 24'>HC</span>
-      <span class='ocrx_word' id='word_1_21' title='bbox 1303 882 1327 904; x_wconf 33' lang='eng'>Kia</span>
-      <span class='ocrx_word' id='word_1_22' title='bbox 1338 880 1400 904; x_wconf 10' lang='eng'>I</span>
-     </span>
      <span class='ocr_line' id='line_1_5' title="bbox 100 1269 1407 1305; baseline 0 -9; x_size 36; x_descenders 9; x_ascenders 11">
       <span class='ocrx_word' id='word_1_23' title='bbox 100 1269 162 1296; x_wconf 96' lang='eng'>Abb.</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 175 1273 185 1296; x_wconf 95' lang='eng'>1</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 198 1270 234 1296; x_wconf 95' lang='eng'>bis</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 245 1273 266 1296; x_wconf 95' lang='eng'>4:</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 279 1270 402 1296; x_wconf 93' lang='eng'>Deutsche</span>
-      <span class='ocrx_word' id='word_1_28' title='bbox 413 1270 598 1305; x_wconf 81' lang='eng'>diskusformige</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 413 1270 598 1305; x_wconf 81' lang='eng'>diskusförmige</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 610 1271 743 1305; x_wconf 96'>Flugzeuge</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 754 1281 794 1297; x_wconf 96' lang='eng'>aus</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 806 1271 848 1297; x_wconf 96' lang='eng'>der</span>
@@ -99,7 +71,7 @@
       <span class='ocrx_word' id='word_1_70' title='bbox 699 1394 813 1420; x_wconf 92' lang='eng'>brachten</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 826 1394 886 1421; x_wconf 96' lang='eng'>auch</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 899 1394 936 1420; x_wconf 93' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_73' title='bbox 951 1395 1068 1428; x_wconf 91' lang='eng'>Baupline</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 951 1395 1068 1428; x_wconf 91' lang='eng'>Baupläne</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 1081 1405 1125 1420; x_wconf 96' lang='eng'>vor</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1138 1394 1183 1420; x_wconf 92' lang='eng'>den</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1197 1394 1322 1420; x_wconf 87' lang='eng'>Alliierten</span>
@@ -109,6 +81,9 @@
      <span class='ocr_line' id='line_1_9' title="bbox 99 1434 212 1461; baseline 0 -1; x_size 33.30191; x_descenders 7.3019104; x_ascenders 11">
       <span class='ocrx_word' id='word_1_79' title='bbox 99 1434 212 1461; x_wconf 91' lang='eng'>cherheit.</span>
      </span>
+    </p>
+
+    <p class='ocr_par'>
      <span class='ocr_line' id='line_1_10' title="bbox 154 1514 1408 1559; baseline 0 -10; x_size 45; x_descenders 10; x_ascenders 15">
       <span class='ocrx_word' id='word_1_80' title='bbox 154 1514 283 1559; x_wconf 93' lang='eng'>richtige</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 304 1517 412 1549; x_wconf 96' lang='eng'>Russe.</span>
@@ -150,6 +125,8 @@
       <span class='ocrx_word' id='word_1_111' title='bbox 521 1732 563 1765; x_wconf 95' lang='eng'>ist</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 574 1730 654 1765; x_wconf 96' lang='eng'>bzw.</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 669 1730 720 1765; x_wconf 96' lang='eng'>die</span>
+      <!-- nein, singular: es war *ein* ausbilder, der das gesagt hat,
+       und das meiste davon ist "nutzloses wissen" (mystik, nicht prüfbar, gossip) -->
       <span class='ocrx_word' id='word_1_114' title='bbox 734 1730 827 1765; x_wconf 96'>Ihrer</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 840 1730 1027 1771; x_wconf 96'>Ausbilder,</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 1040 1730 1111 1765; x_wconf 96' lang='eng'>dass</span>
@@ -172,12 +149,12 @@
       <span class='ocrx_word' id='word_1_129' title='bbox 184 1839 228 1872; x_wconf 96' lang='eng'>sie</span>
       <span class='ocrx_word' id='word_1_130' title='bbox 242 1839 272 1883; x_wconf 96' lang='eng'>ja</span>
       <span class='ocrx_word' id='word_1_131' title='bbox 285 1838 330 1873; x_wconf 92' lang='eng'>als</span>
-      <span class='ocrx_word' id='word_1_132' title='bbox 346 1838 658 1877; x_wconf 35' lang='eng'>,Reichsdeutsche“</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 346 1838 658 1877; x_wconf 35' lang='eng'>„Reichsdeutsche“</span>
       <span class='ocrx_word' id='word_1_133' title='bbox 672 1838 765 1873; x_wconf 96' lang='eng'>nicht</span>
       <span class='ocrx_word' id='word_1_134' title='bbox 779 1838 875 1873; x_wconf 96' lang='eng'>mehr</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 888 1838 946 1873; x_wconf 96' lang='eng'>auf</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 958 1838 1016 1873; x_wconf 92' lang='eng'>der</span>
-      <span class='ocrx_word' id='word_1_137' title='bbox 1027 1838 1227 1873; x_wconf 56' lang='eng'>Weltbiihne</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1027 1838 1227 1873; x_wconf 56' lang='eng'>Weltbühne</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 1241 1838 1409 1873; x_wconf 96'>auftreten</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 96 1891 637 1937; baseline 0.002 -12; x_size 44; x_descenders 10; x_ascenders 13">
