@@ -131,6 +131,7 @@
       <span class='ocrx_word' id='word_1_98' title='bbox 359 713 424 747; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 442 713 590 747; x_wconf 96'>verteilen</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 610 713 719 753; x_wconf 96'>sollen,</span>
+      <!-- Flugblätter verteilen: gute Idee! Scheiss auf Zensur. -->
       <span class='ocrx_word' id='word_1_101' title='bbox 738 714 794 747; x_wconf 96'>mit</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 813 713 914 747; x_wconf 96'>denen</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 933 714 975 746; x_wconf 96'>sie</span>
@@ -317,7 +318,8 @@
       <span class='ocrx_word' id='word_1_256' title='bbox 224 1481 277 1501; x_wconf 92' lang='eng'>ren</span>
       <span class='ocrx_word' id='word_1_257' title='bbox 292 1466 479 1501; x_wconf 96'>Verfechter</span>
       <span class='ocrx_word' id='word_1_258' title='bbox 494 1467 549 1501; x_wconf 93' lang='eng'>der</span>
-      <span class='ocrx_word' id='word_1_259' title='bbox 564 1466 806 1512; x_wconf 45' lang='eng'>Straflengewalt</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 564 1466 806 1512; x_wconf 45' lang='eng'>Straßengewalt</span>
+      <!-- sympathisch! das nenne ich "vernünftig" -->
       <span class='ocrx_word' id='word_1_260' title='bbox 823 1466 887 1500; x_wconf 93' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_261' title='bbox 904 1466 998 1500; x_wconf 96'>sahen</span>
       <span class='ocrx_word' id='word_1_262' title='bbox 1015 1466 1079 1500; x_wconf 96' lang='eng'>dies</span>
@@ -344,7 +346,7 @@
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 223 1572 1475 1619; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_281' title='bbox 223 1574 288 1609; x_wconf 93' lang='eng'>und</span>
-      <span class='ocrx_word' id='word_1_282' title='bbox 301 1574 497 1619; x_wconf 92' lang='eng'>verpriigelte</span>
+      <span class='ocrx_word' id='word_1_282' title='bbox 301 1574 497 1619; x_wconf 92' lang='eng'>verprügelte</span>
       <span class='ocrx_word' id='word_1_283' title='bbox 513 1588 604 1619; x_wconf 96'>sogar</span>
       <span class='ocrx_word' id='word_1_284' title='bbox 618 1574 841 1619; x_wconf 96' lang='eng'>Bodybuilder!</span>
       <span class='ocrx_word' id='word_1_285' title='bbox 859 1574 913 1608; x_wconf 96' lang='eng'>Ich</span>
@@ -358,7 +360,7 @@
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 224 1627 1475 1673; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_293' title='bbox 224 1628 303 1662; x_wconf 93' lang='eng'>chen</span>
-      <span class='ocrx_word' id='word_1_294' title='bbox 318 1628 493 1662; x_wconf 64' lang='eng'>vermébelt</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 318 1628 493 1662; x_wconf 64' lang='eng'>vermöbelt</span>
       <span class='ocrx_word' id='word_1_295' title='bbox 510 1628 573 1663; x_wconf 96' lang='eng'>hat!</span>
       <span class='ocrx_word' id='word_1_296' title='bbox 593 1631 633 1663; x_wconf 96' lang='eng'>So</span>
       <span class='ocrx_word' id='word_1_297' title='bbox 650 1640 742 1663; x_wconf 93' lang='eng'>etwas</span>
