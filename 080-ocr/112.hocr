@@ -55,6 +55,7 @@
       <span class='ocrx_word' id='word_1_34' title='bbox 636 387 677 421; x_wconf 92'>als</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 698 386 970 431; x_wconf 91'>„Kulturbringer“</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 990 385 1175 430; x_wconf 92'>fungierten,</span>
+      <!-- ohje, spätestens hier eskaliert es wieder zu bullshit... glaub der das alles?! -->
       <span class='ocrx_word' id='word_1_37' title='bbox 1195 385 1232 419; x_wconf 96'>da</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 1250 386 1291 419; x_wconf 95'>sie</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 1310 383 1395 418; x_wconf 96'>nicht</span>
@@ -223,34 +224,6 @@
     </p>
 
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 171 1324 1457 2281">
-     <span class='ocr_line' id='line_1_18' title="bbox 442 1324 1266 1352; baseline 0.002 -10; x_size 20; x_descenders 4; x_ascenders 4">
-      <span class='ocrx_word' id='word_1_172' title='bbox 442 1335 450 1341; x_wconf 93'>A</span>
-      <span class='ocrx_word' id='word_1_173' title='bbox 512 1346 515 1351; x_wconf 32' lang='eng'>b</span>
-      <span class='ocrx_word' id='word_1_174' title='bbox 676 1330 679 1336; x_wconf 39' lang='eng'>}</span>
-      <span class='ocrx_word' id='word_1_175' title='bbox 913 1324 930 1352; x_wconf 7' lang='eng'>Ww</span>
-      <span class='ocrx_word' id='word_1_176' title='bbox 1141 1331 1205 1344; x_wconf 25' lang='eng'>FG</span>
-      <span class='ocrx_word' id='word_1_177' title='bbox 1257 1328 1266 1341; x_wconf 27'>N</span>
-     </span>
-     <span class='ocr_line' id='line_1_19' title="bbox 271 1438 1407 1485; baseline -0.005 0; x_size 44.077431; x_descenders 11.077433; x_ascenders 13">
-      <span class='ocrx_word' id='word_1_178' title='bbox 271 1451 384 1488; x_wconf 0' lang='eng'>eh</span>
-      <span class='ocrx_word' id='word_1_179' title='bbox 1108 1450 1219 1485; x_wconf 1' lang='eng'>FX.</span>
-      <span class='ocrx_word' id='word_1_180' title='bbox 1312 1438 1407 1478; x_wconf 71'>A</span>
-     </span>
-     <span class='ocr_line' id='line_1_20' title="bbox 293 1518 1421 1578; baseline -0.004 -29.228; x_size 35; x_descenders 6; x_ascenders 10">
-      <span class='ocrx_word' id='word_1_181' title='bbox 239 1520 387 1555; x_wconf 26'>KEN</span>
-      <span class='ocrx_word' id='word_1_182' title='bbox 482 1524 523 1556; x_wconf 28'>RE</span>
-      <span class='ocrx_word' id='word_1_183' title='bbox 1122 1519 1227 1545; x_wconf 9' lang='eng'>En</span>
-      <span class='ocrx_word' id='word_1_184' title='bbox 1390 1518 1421 1578; x_wconf 77' lang='eng'>i</span>
-     </span>
-     <span class='ocr_line' id='line_1_21' title="bbox 184 1642 1457 1738; baseline 0.014 -32; x_size 38; x_descenders 6; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_185' title='bbox 184 1688 187 1706; x_wconf 67'>|</span>
-      <span class='ocrx_word' id='word_1_186' title='bbox 269 1668 275 1676; x_wconf 25' lang='eng'>Yl</span>
-      <span class='ocrx_word' id='word_1_187' title='bbox 522 1683 529 1700; x_wconf 0'>&amp;</span>
-      <span class='ocrx_word' id='word_1_188' title='bbox 849 1660 868 1693; x_wconf 59'>N</span>
-      <span class='ocrx_word' id='word_1_189' title='bbox 1124 1657 1165 1705; x_wconf 46' lang='eng'>4</span>
-      <span class='ocrx_word' id='word_1_190' title='bbox 1183 1669 1325 1714; x_wconf 20' lang='eng'>ry</span>
-      <span class='ocrx_word' id='word_1_191' title='bbox 1401 1642 1457 1738; x_wconf 46' lang='eng'>1)</span>
-     </span>
      <span class='ocr_line' id='line_1_22' title="bbox 171 2139 1413 2176; baseline -0.003 -7; x_size 34; x_descenders 8; x_ascenders 11">
       <span class='ocrx_word' id='word_1_192' title='bbox 171 2143 233 2169; x_wconf 96' lang='eng'>Abb.</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 244 2146 266 2169; x_wconf 96' lang='eng'>5:</span>
