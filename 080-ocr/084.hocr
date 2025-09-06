@@ -104,6 +104,7 @@
       <span class='ocrx_word' id='word_1_75' title='bbox 725 608 817 631; x_wconf 93'>etwas</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 831 597 972 630; x_wconf 90'>unseriös</span>
       <span class='ocrx_word' id='word_1_77' title='bbox 988 596 1122 641; x_wconf 96'>klingen,</span>
+      <!-- hahaha, fast alles was der labert ist "unseriös" = nicht prüfbar = Mystik = Gossip = Blabla -->
       <span class='ocrx_word' id='word_1_78' title='bbox 1137 596 1189 630; x_wconf 96'>hat</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 1203 595 1275 630; x_wconf 96'>aber</span>
       <span class='ocrx_word' id='word_1_80' title='bbox 1288 597 1378 629; x_wconf 96'>einen</span>
@@ -112,6 +113,7 @@
      <span class='ocr_line' id='line_1_9' title="bbox 229 649 1477 695; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_82' title='bbox 229 650 397 695; x_wconf 96'>wichtigen</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 418 650 646 695; x_wconf 95'>Hintergrund.</span>
+      <!-- Ooh, ein "wichtiger Hintergrund", na dann muss ich ja nicht mehr prüfen und kann alles glauben... /s -->
       <span class='ocrx_word' id='word_1_84' title='bbox 669 652 730 684; x_wconf 96'>Die</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 751 652 882 684; x_wconf 96'>meisten</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 903 650 1026 684; x_wconf 96'>kennen</span>
@@ -399,6 +401,7 @@
       <span class='ocrx_word' id='word_1_316' title='bbox 936 2011 1063 2043; x_wconf 96'>Dritten</span>
       <span class='ocrx_word' id='word_1_317' title='bbox 1078 2008 1249 2054; x_wconf 96'>Weltkrieg</span>
       <span class='ocrx_word' id='word_1_318' title='bbox 1265 2009 1426 2042; x_wconf 96'>kommen.</span>
+      <!-- Uuh, ganz was Neues... ist ja nur eine Frage der Zeit. -->
       <span class='ocrx_word' id='word_1_319' title='bbox 1444 2010 1482 2041; x_wconf 96'>Es</span>
      </span>
      <span class='ocr_line' id='line_1_33' title="bbox 227 2062 1483 2108; baseline -0.002 -11; x_size 44.300941; x_descenders 10.300943; x_ascenders 15">
@@ -417,6 +420,7 @@
      <span class='ocr_line' id='line_1_34' title="bbox 228 2115 1483 2157; baseline -0.002 -6; x_size 44.843098; x_descenders 10.843098; x_ascenders 14">
       <span class='ocrx_word' id='word_1_331' title='bbox 228 2119 294 2151; x_wconf 96'>sein</span>
       <span class='ocrx_word' id='word_1_332' title='bbox 309 2118 376 2152; x_wconf 95'>soll.</span>
+      <!-- Naja, die Migranteninvasion haben wir spätestens seit 2016... Das sind Soldaten zum Bürgerkrieg. -->
       <span class='ocrx_word' id='word_1_333' title='bbox 392 2118 478 2152; x_wconf 96'>Aber</span>
       <span class='ocrx_word' id='word_1_334' title='bbox 492 2131 523 2151; x_wconf 96'>es</span>
       <span class='ocrx_word' id='word_1_335' title='bbox 539 2117 622 2151; x_wconf 96'>steht</span>
