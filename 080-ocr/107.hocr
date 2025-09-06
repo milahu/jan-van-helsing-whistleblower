@@ -210,7 +210,7 @@
       <span class='ocrx_word' id='word_1_163' title='bbox 874 1105 999 1136; x_wconf 96'>Wasser</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 1017 1113 1175 1136; x_wconf 96'>austreten</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 1194 1101 1259 1136; x_wconf 93'>und</span>
-      <span class='ocrx_word' id='word_1_166' title='bbox 1278 1101 1326 1135; x_wconf 87'>ıhr</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1278 1101 1326 1135; x_wconf 87'>ihr</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 1344 1101 1410 1136; x_wconf 96'>Ziel</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 157 1154 1410 1190; baseline 0.001 -2; x_size 45.480579; x_descenders 10.48058; x_ascenders 15">
@@ -290,7 +290,9 @@
       <span class='ocrx_word' id='word_1_231' title='bbox 755 1427 814 1459; x_wconf 96'>Art</span>
       <span class='ocrx_word' id='word_1_232' title='bbox 828 1425 949 1459; x_wconf 96'>Mantel</span>
       <span class='ocrx_word' id='word_1_233' title='bbox 964 1424 1127 1465; x_wconf 96'>erfunden,</span>
-      <span class='ocrx_word' id='word_1_234' title='bbox 1142 1425 1248 1459; x_wconf 93'>indem</span>
+      <!-- fixed: "indem" -> "in dem" -->
+      <span class='ocrx_word' id='word_1_234' title='bbox 1143 1425 1172 1459; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_234a' title='bbox 1175 1421 1248 1459; x_wconf 93'>dem</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 1264 1428 1411 1459; x_wconf 91'>Kamera-</span>
      </span>
      <span class='ocr_line' id='line_1_24' title="bbox 156 1478 1410 1524; baseline 0.001 -12; x_size 45; x_descenders 11; x_ascenders 14">
@@ -303,7 +305,7 @@
       <span class='ocrx_word' id='word_1_242' title='bbox 909 1479 988 1513; x_wconf 96'>nach</span>
       <span class='ocrx_word' id='word_1_243' title='bbox 1004 1493 1101 1513; x_wconf 96'>vorne</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 1119 1479 1257 1524; x_wconf 95'>spiegeln</span>
-      <span class='ocrx_word' id='word_1_245' title='bbox 1273 1478 1339 1513; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 1276 1474 1339 1513; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_246' title='bbox 1357 1478 1410 1513; x_wconf 96'>das</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 155 1532 1411 1578; baseline 0.001 -13; x_size 46; x_descenders 12; x_ascenders 14">
