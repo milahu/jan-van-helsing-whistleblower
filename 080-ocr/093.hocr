@@ -37,6 +37,7 @@
       <span class='ocrx_word' id='word_1_20' title='bbox 1310 316 1409 349; x_wconf 92'>einer-</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 160 368 1409 413; baseline 0 -11; x_size 40; x_descenders 6; x_ascenders 14">
+      <!-- FIXME scan -->
       <span class='ocrx_word' id='word_1_21' title='bbox 160 369 232 402; x_wconf 96'>seits</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 250 368 340 408; x_wconf 95'>weiß,</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 358 370 415 402; x_wconf 92'>wie</span>
@@ -298,8 +299,8 @@
      <span class='ocr_line' id='line_1_25' title="bbox 157 1553 1409 1599; baseline 0 -11; x_size 40; x_descenders 5; x_ascenders 15">
       <span class='ocrx_word' id='word_1_236' title='bbox 157 1553 285 1588; x_wconf 96' lang='eng'>wurden</span>
       <span class='ocrx_word' id='word_1_237' title='bbox 303 1555 331 1597; x_wconf 93' lang='eng'>ja</span>
-      <span class='ocrx_word' id='word_1_238' title='bbox 350 1553 481 1588; x_wconf 89' lang='eng'>dariiber</span>
-      <span class='ocrx_word' id='word_1_239' title='bbox 499 1553 680 1599; x_wconf 91' lang='eng'>aufgeklirt,</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 350 1553 481 1588; x_wconf 89' lang='eng'>darüber</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 499 1553 680 1599; x_wconf 91' lang='eng'>aufgeklärt,</span>
       <span class='ocrx_word' id='word_1_240' title='bbox 698 1568 758 1588; x_wconf 96' lang='eng'>was</span>
       <span class='ocrx_word' id='word_1_241' title='bbox 778 1554 843 1588; x_wconf 93' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_242' title='bbox 861 1555 957 1588; x_wconf 92' lang='eng'>wieso</span>
@@ -354,7 +355,7 @@
       <span class='ocrx_word' id='word_1_283' title='bbox 240 1783 272 1803; x_wconf 93' lang='eng'>er</span>
       <span class='ocrx_word' id='word_1_284' title='bbox 284 1770 387 1803; x_wconf 92' lang='eng'>wirres</span>
       <span class='ocrx_word' id='word_1_285' title='bbox 401 1770 487 1814; x_wconf 92' lang='eng'>Zeug</span>
-      <span class='ocrx_word' id='word_1_286' title='bbox 501 1775 655 1814; x_wconf 91' lang='eng'>getriumt</span>
+      <span class='ocrx_word' id='word_1_286' title='bbox 501 1775 655 1814; x_wconf 91' lang='eng'>geträumt</span>
       <span class='ocrx_word' id='word_1_287' title='bbox 669 1769 755 1808; x_wconf 96' lang='eng'>habe,</span>
       <span class='ocrx_word' id='word_1_288' title='bbox 770 1769 858 1803; x_wconf 95' lang='eng'>dabei</span>
       <span class='ocrx_word' id='word_1_289' title='bbox 871 1783 933 1803; x_wconf 96' lang='eng'>war</span>
