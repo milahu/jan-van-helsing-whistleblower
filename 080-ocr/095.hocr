@@ -206,6 +206,9 @@
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 160 1045 360 1080; baseline 0.005 -1; x_size 46.035622; x_descenders 11.035623; x_ascenders 15">
       <span class='ocrx_word' id='word_1_163' title='bbox 160 1045 360 1080; x_wconf 96'>verzichten.“</span>
+      <!-- Ja klar, Pazifisten helfen anderen Pazifisten beim Drogen-Verkaufen,
+       damit die "Ruhe und Ordnung" bestehen bleibt... Langweilig!!
+      -->
      </span>
     </p>
 
@@ -349,7 +352,11 @@
       <span class='ocrx_word' id='word_1_271' title='bbox 161 1771 247 1806; x_wconf 96' lang='eng'>nicht</span>
       <span class='ocrx_word' id='word_1_272' title='bbox 263 1773 305 1806; x_wconf 93'>im</span>
       <span class='ocrx_word' id='word_1_273' title='bbox 321 1772 537 1807; x_wconf 92' lang='eng'>Bundesbrief.</span>
+<!-- FIXME scan
       <span class='ocrx_word' id='word_1_274' title='bbox 553 1772 729 1807; x_wconf 91'>Man-hatte</span>
+-->
+      <span class='ocrx_word' id='word_1_274' title='bbox 553 1772 628 1807; x_wconf 91'>Man</span>
+      <span class='ocrx_word' id='word_1_274a' title='bbox 644 1772 730 1807; x_wconf 91'>hatte</span>
       <span class='ocrx_word' id='word_1_275' title='bbox 744 1787 802 1807; x_wconf 96' lang='eng'>uns</span>
       <span class='ocrx_word' id='word_1_276' title='bbox 819 1774 850 1806; x_wconf 96'>in</span>
       <span class='ocrx_word' id='word_1_277' title='bbox 865 1773 984 1807; x_wconf 96'>kurzen</span>
@@ -392,6 +399,10 @@
       <span class='ocrx_word' id='word_1_308' title='bbox 268 1945 361 1968; x_wconf 96'>etwas</span>
       <span class='ocrx_word' id='word_1_309' title='bbox 380 1933 538 1968; x_wconf 96'>bewirken</span>
       <span class='ocrx_word' id='word_1_310' title='bbox 557 1934 649 1968; x_wconf 96'>kann.</span>
+      <!-- Ohja.
+       Würden Wahlen etwas ändern, dann wären sie verboten.
+       Echte Wahl ist eine Abstimmung mit den Füßen = Auswandern.
+      -->
       <span class='ocrx_word' id='word_1_311' title='bbox 667 1937 741 1969; x_wconf 96'>Wer</span>
       <span class='ocrx_word' id='word_1_312' title='bbox 758 1935 879 1979; x_wconf 96'>regiert,</span>
       <span class='ocrx_word' id='word_1_313' title='bbox 897 1934 975 1969; x_wconf 96'>wird</span>
