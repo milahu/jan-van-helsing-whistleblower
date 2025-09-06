@@ -180,7 +180,7 @@
       <span class='ocrx_word' id='word_1_141' title='bbox 734 907 794 941; x_wconf 96'>den</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 811 907 953 941; x_wconf 96'>Kontakt</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 970 921 1009 941; x_wconf 96' lang='eng'>zu</span>
-      <span class='ocrx_word' id='word_1_144' title='bbox 1025 907 1090 941; x_wconf 92' lang='eng'>thm</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1025 907 1090 941; x_wconf 92' lang='eng'>ihm</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1105 907 1256 941; x_wconf 96'>verloren.</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 1274 906 1402 946; x_wconf 96'>Schade,</span>
      </span>
@@ -284,6 +284,7 @@
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 94 1445 1404 1490; baseline 0.001 -12; x_size 45; x_descenders 11; x_ascenders 13">
       <span class='ocrx_word' id='word_1_229' title='bbox 94 1457 151 1478; x_wconf 96'>ren</span>
+      <!-- was heisst "hochkriminelle Handlungen"? Drogenhandel im "großen" Stil? Lächerlich... -->
       <span class='ocrx_word' id='word_1_230' title='bbox 165 1445 234 1479; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_231' title='bbox 248 1445 366 1479; x_wconf 96'>zudem</span>
       <span class='ocrx_word' id='word_1_232' title='bbox 381 1445 467 1479; x_wconf 96'>diese</span>
