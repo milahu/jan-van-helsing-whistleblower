@@ -97,7 +97,7 @@
       <span class='ocrx_word' id='word_1_70' title='bbox 460 555 530 589; x_wconf 96'>sind</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 543 555 593 589; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 607 555 777 590; x_wconf 96'>Deutschen</span>
-      <span class='ocrx_word' id='word_1_73' title='bbox 792 555 900 590; x_wconf 90'>selbst.”</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 792 555 900 590; x_wconf 90'>selbst.‘</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 914 555 966 590; x_wconf 95'>Ich</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 980 570 1046 589; x_wconf 95'>war</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1058 569 1096 589; x_wconf 96'>zu</span>
@@ -237,7 +237,8 @@
       <span class='ocrx_word' id='word_1_190' title='bbox 1323 1094 1416 1128; x_wconf 92'>schei-</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 165 1145 323 1181; baseline 0 0; x_size 46.946701; x_descenders 10.946699; x_ascenders 16">
-      <span class='ocrx_word' id='word_1_191' title='bbox 165 1145 323 1181; x_wconf 66' lang='eng'>nen...2“®</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 165 1145 323 1181; x_wconf 66' lang='eng'>nen...?“<sup>(4)</sup></span>
+      <!-- Märtyrerrolle? eher opferrolle... -->
      </span>
      <span class='ocr_line' id='line_1_19' title="bbox 166 1255 1418 1300; baseline 0.001 -12; x_size 39; x_descenders 5; x_ascenders 14">
       <span class='ocrx_word' id='word_1_192' title='bbox 166 1257 228 1288; x_wconf 96'>Für</span>
@@ -266,7 +267,7 @@
       <span class='ocrx_word' id='word_1_211' title='bbox 110 1362 151 1396; x_wconf 96' lang='eng'>als</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 173 1364 263 1396; x_wconf 93' lang='eng'>einen</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 284 1362 492 1408; x_wconf 91' lang='eng'>Oberbegriff</span>
-      <span class='ocrx_word' id='word_1_214' title='bbox 511 1362 560 1397; x_wconf 95' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 511 1362 560 1397; x_wconf 95' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_215' title='bbox 580 1364 629 1397; x_wconf 93' lang='eng'>ein</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 648 1363 828 1398; x_wconf 92' lang='eng'>weltweites</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 848 1363 1023 1398; x_wconf 96' lang='eng'>Netzwerk</span>
@@ -327,7 +328,7 @@
       <span class='ocrx_word' id='word_1_262' title='bbox 499 1632 600 1667; x_wconf 93' lang='eng'>haben</span>
       <span class='ocrx_word' id='word_1_263' title='bbox 616 1632 751 1678; x_wconf 96'>Begriffe</span>
       <span class='ocrx_word' id='word_1_264' title='bbox 767 1634 824 1667; x_wconf 90' lang='eng'>wie</span>
-      <span class='ocrx_word' id='word_1_265' title='bbox 841 1633 1076 1671; x_wconf 31' lang='eng'>,Illuminaten</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 841 1633 1076 1671; x_wconf 31' lang='eng'>„Illuminaten“</span>
       <span class='ocrx_word' id='word_1_266' title='bbox 1093 1633 1143 1667; x_wconf 96' lang='eng'>bei</span>
       <span class='ocrx_word' id='word_1_267' title='bbox 1159 1632 1224 1666; x_wconf 95'>ihm</span>
       <span class='ocrx_word' id='word_1_268' title='bbox 1240 1633 1334 1667; x_wconf 96'>kaum</span>
@@ -375,7 +376,7 @@
       <span class='ocrx_word' id='word_1_304' title='bbox 1350 1808 1419 1828; x_wconf 93' lang='eng'>aus-</span>
      </span>
      <span class='ocr_line' id='line_1_30' title="bbox 109 1846 1418 1893; baseline 0.001 -12; x_size 45; x_descenders 11; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_305' title='bbox 109 1846 263 1882; x_wconf 88' lang='eng'>fihrende</span>
+      <span class='ocrx_word' id='word_1_305' title='bbox 109 1846 263 1882; x_wconf 88' lang='eng'>führende</span>
       <span class='ocrx_word' id='word_1_306' title='bbox 282 1850 419 1893; x_wconf 91' lang='eng'>Organe,</span>
       <span class='ocrx_word' id='word_1_307' title='bbox 436 1848 640 1893; x_wconf 91' lang='eng'>Werkzeuge,</span>
       <span class='ocrx_word' id='word_1_308' title='bbox 658 1848 774 1882; x_wconf 96' lang='eng'>welche</span>
@@ -416,7 +417,7 @@
       <span class='ocrx_word' id='word_1_337' title='bbox 108 2008 224 2048; x_wconf 92' lang='eng'>milien,</span>
       <span class='ocrx_word' id='word_1_338' title='bbox 241 2020 394 2054; x_wconf 96'>entgegen</span>
       <span class='ocrx_word' id='word_1_339' title='bbox 408 2009 646 2044; x_wconf 93'>verschiedener</span>
-      <span class='ocrx_word' id='word_1_340' title='bbox 660 2009 1200 2055; x_wconf 57' lang='eng'>Verschwérungs-Publikationen,</span>
+      <span class='ocrx_word' id='word_1_340' title='bbox 660 2009 1200 2055; x_wconf 57' lang='eng'>Verschwörungs-Publikationen,</span>
       <span class='ocrx_word' id='word_1_341' title='bbox 1216 2009 1303 2044; x_wconf 95' lang='eng'>nicht</span>
       <span class='ocrx_word' id='word_1_342' title='bbox 1319 2009 1419 2054; x_wconf 95' lang='eng'>gleich</span>
      </span>
