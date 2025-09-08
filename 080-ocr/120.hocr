@@ -135,6 +135,9 @@
       <span class='ocrx_word' id='word_1_102' title='bbox 956 708 1023 741; x_wconf 96'>eine</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1036 707 1148 741; x_wconf 96'>andere</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1162 707 1360 741; x_wconf 96'>Geschichte.</span>
+      <!-- ja genau, alles nur "geschichten" die keinem helfen,
+       entertainment, blaue pillen, passive scheisse, "wissen ist macht" blabla
+      -->
      </span>
     </p>
 
@@ -356,7 +359,7 @@
      <span class='ocr_line' id='line_1_27' title="bbox 164 1622 1472 1667; baseline -0.002 -8; x_size 39; x_descenders 5; x_ascenders 14">
       <span class='ocrx_word' id='word_1_284' title='bbox 164 1625 267 1659; x_wconf 92'>hasste</span>
       <span class='ocrx_word' id='word_1_285' title='bbox 285 1624 558 1659; x_wconf 91'>Zaren-Russland</span>
-      <span class='ocrx_word' id='word_1_286' title='bbox 575 1630 819 1663; x_wconf 91'>unterstiitzten,</span>
+      <span class='ocrx_word' id='word_1_286' title='bbox 575 1630 819 1663; x_wconf 91'>unterstützten,</span>
       <span class='ocrx_word' id='word_1_287' title='bbox 837 1623 886 1657; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_288' title='bbox 904 1637 968 1657; x_wconf 96'>nun</span>
       <span class='ocrx_word' id='word_1_289' title='bbox 986 1623 1033 1656; x_wconf 94'>ihr</span>
@@ -413,7 +416,7 @@
       <span class='ocrx_word' id='word_1_332' title='bbox 287 1841 464 1884; x_wconf 96' lang='deu'>Zeitungen</span>
       <span class='ocrx_word' id='word_1_333' title='bbox 481 1839 669 1878; x_wconf 96' lang='deu'>„Barbaren“</span>
       <span class='ocrx_word' id='word_1_334' title='bbox 686 1839 751 1873; x_wconf 92'>und</span>
-      <span class='ocrx_word' id='word_1_335' title='bbox 766 1842 953 1878; x_wconf 73'>,Hunnen®.</span>
+      <span class='ocrx_word' id='word_1_335' title='bbox 766 1842 953 1878; x_wconf 73'>„Hunnen“.</span>
       <span class='ocrx_word' id='word_1_336' title='bbox 970 1841 1036 1873; x_wconf 96'>Der</span>
       <span class='ocrx_word' id='word_1_337' title='bbox 1050 1839 1175 1872; x_wconf 93'>weitere</span>
       <span class='ocrx_word' id='word_1_338' title='bbox 1189 1837 1318 1872; x_wconf 95' lang='deu'>Verlauf</span>
@@ -449,7 +452,7 @@
       <span class='ocrx_word' id='word_1_359' title='bbox 329 2001 400 2035; x_wconf 96'>kam</span>
       <span class='ocrx_word' id='word_1_360' title='bbox 415 2001 464 2035; x_wconf 93'>die</span>
       <span class='ocrx_word' id='word_1_361' title='bbox 479 2012 673 2046; x_wconf 93' lang='deu'>sogenannte</span>
-      <span class='ocrx_word' id='word_1_362' title='bbox 689 1999 1047 2039; x_wconf 49'>,Friedenskonferenz®</span>
+      <span class='ocrx_word' id='word_1_362' title='bbox 689 1999 1047 2039; x_wconf 49'>„Friedenskonferenz“</span>
       <span class='ocrx_word' id='word_1_363' title='bbox 1061 2013 1125 2034; x_wconf 96'>von</span>
       <span class='ocrx_word' id='word_1_364' title='bbox 1138 1999 1310 2033; x_wconf 96'>Versailles.</span>
       <span class='ocrx_word' id='word_1_365' title='bbox 1326 2000 1396 2033; x_wconf 92'>Sein</span>
@@ -471,7 +474,7 @@
      <span class='ocr_line' id='line_1_36' title="bbox 164 2106 1473 2154; baseline -0.002 -11; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_378' title='bbox 164 2109 241 2143; x_wconf 96'>send</span>
       <span class='ocrx_word' id='word_1_379' title='bbox 254 2123 366 2143; x_wconf 93'>waren.</span>
-      <span class='ocrx_word' id='word_1_380' title='bbox 381 2111 561 2154; x_wconf 89'>Spitestens</span>
+      <span class='ocrx_word' id='word_1_380' title='bbox 381 2111 561 2154; x_wconf 89'>Spätestens</span>
       <span class='ocrx_word' id='word_1_381' title='bbox 576 2108 642 2142; x_wconf 93'>hier</span>
       <span class='ocrx_word' id='word_1_382' title='bbox 654 2119 791 2142; x_wconf 92'>wussten</span>
       <span class='ocrx_word' id='word_1_383' title='bbox 805 2107 853 2142; x_wconf 96'>die</span>
