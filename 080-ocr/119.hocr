@@ -185,6 +185,7 @@
       <span class='ocrx_word' id='word_1_141' title='bbox 443 931 590 966; x_wconf 92' lang='eng'>Planeten</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 606 932 737 966; x_wconf 92' lang='eng'>besucht</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 753 932 869 966; x_wconf 96' lang='eng'>wurde.</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_144' title='bbox 886 934 947 966; x_wconf 93' lang='eng'>Die</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 962 935 1123 966; x_wconf 91' lang='eng'>Vertreter</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 1138 932 1239 967; x_wconf 92' lang='eng'>dieser</span>
@@ -195,7 +196,7 @@
       <span class='ocrx_word' id='word_1_149' title='bbox 207 986 307 1020; x_wconf 96' lang='eng'>haben</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 321 986 381 1020; x_wconf 93' lang='eng'>den</span>
       <span class='ocrx_word' id='word_1_151' title='bbox 395 986 591 1020; x_wconf 91' lang='eng'>Grundstein</span>
-      <span class='ocrx_word' id='word_1_152' title='bbox 605 985 655 1020; x_wconf 93' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 605 985 655 1020; x_wconf 93' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 667 986 727 1020; x_wconf 96' lang='eng'>den</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 741 986 834 1020; x_wconf 96' lang='eng'>heute</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 848 986 902 1020; x_wconf 96' lang='eng'>auf</span>
@@ -206,6 +207,7 @@
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 110 1039 1418 1085; baseline 0.001 -12; x_size 45; x_descenders 11; x_ascenders 14">
       <span class='ocrx_word' id='word_1_160' title='bbox 110 1039 219 1084; x_wconf 95'>gelegt,</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_161' title='bbox 238 1039 291 1074; x_wconf 96' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 306 1053 369 1073; x_wconf 96' lang='eng'>von</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 387 1039 447 1074; x_wconf 93' lang='eng'>den</span>
@@ -220,6 +222,7 @@
       <span class='ocrx_word' id='word_1_170' title='bbox 109 1094 217 1128; x_wconf 93' lang='eng'>niveau</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 233 1093 376 1138; x_wconf 96'>gehoben</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 390 1093 505 1128; x_wconf 96' lang='eng'>wurde.</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_173' title='bbox 520 1095 584 1127; x_wconf 96' lang='eng'>Das</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 600 1094 638 1128; x_wconf 96' lang='eng'>ist</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 653 1094 736 1128; x_wconf 95' lang='eng'>eines</span>
@@ -234,9 +237,10 @@
       <span class='ocrx_word' id='word_1_182' title='bbox 176 1147 258 1182; x_wconf 93' lang='eng'>Welt</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 274 1147 537 1192; x_wconf 96'>zurückgehalten</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 551 1147 637 1181; x_wconf 96' lang='eng'>wird.</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_185' title='bbox 654 1147 730 1182; x_wconf 96' lang='eng'>Und</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 745 1147 797 1181; x_wconf 96' lang='eng'>das</span>
-      <span class='ocrx_word' id='word_1_187' title='bbox 812 1154 892 1182; x_wconf 96' lang='eng'>wire</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 812 1154 892 1182; x_wconf 96' lang='eng'>wäre</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 908 1148 990 1182; x_wconf 96' lang='eng'>dann</span>
       <span class='ocrx_word' id='word_1_189' title='bbox 1006 1149 1074 1182; x_wconf 93' lang='eng'>eine</span>
       <span class='ocrx_word' id='word_1_190' title='bbox 1090 1148 1219 1193; x_wconf 93'>richtige</span>
@@ -288,6 +292,7 @@
       <span class='ocrx_word' id='word_1_225' title='bbox 649 1416 742 1451; x_wconf 93'>nicht</span>
       <span class='ocrx_word' id='word_1_226' title='bbox 757 1416 893 1451; x_wconf 92'>korrekt</span>
       <span class='ocrx_word' id='word_1_227' title='bbox 909 1418 958 1451; x_wconf 93'>ist.</span>
+      <!-- ach... -->
       <span class='ocrx_word' id='word_1_228' title='bbox 976 1418 1085 1451; x_wconf 92'>Damit</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 1102 1419 1200 1451; x_wconf 92'>meint</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 1217 1431 1249 1451; x_wconf 96'>er</span>
@@ -375,7 +380,7 @@
      <span class='ocr_line' id='line_1_29' title="bbox 164 1793 1419 1839; baseline 0 -11; x_size 43; x_descenders 11; x_ascenders 12">
       <span class='ocrx_word' id='word_1_296' title='bbox 164 1796 230 1828; x_wconf 93'>Ben</span>
       <span class='ocrx_word' id='word_1_297' title='bbox 247 1797 487 1839; x_wconf 91'>Morgensterns</span>
-      <span class='ocrx_word' id='word_1_298' title='bbox 507 1793 722 1839; x_wconf 29'>Urgrofivater</span>
+      <span class='ocrx_word' id='word_1_298' title='bbox 507 1793 722 1839; x_wconf 29'>Urgroßvater</span>
       <span class='ocrx_word' id='word_1_299' title='bbox 739 1808 800 1828; x_wconf 92'>war</span>
       <span class='ocrx_word' id='word_1_300' title='bbox 816 1816 837 1819; x_wconf 92'>—</span>
       <span class='ocrx_word' id='word_1_301' title='bbox 853 1808 945 1828; x_wconf 96'>wenn</span>
@@ -400,7 +405,7 @@
       <span class='ocrx_word' id='word_1_318' title='bbox 1366 1848 1421 1882; x_wconf 96'>der</span>
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 109 1901 1421 1946; baseline 0.001 -11; x_size 45; x_descenders 11; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_319' title='bbox 109 1901 257 1935; x_wconf 92'>Griinder</span>
+      <span class='ocrx_word' id='word_1_319' title='bbox 109 1901 257 1935; x_wconf 92'>Gründer</span>
       <span class='ocrx_word' id='word_1_320' title='bbox 270 1901 324 1935; x_wconf 93'>der</span>
       <span class='ocrx_word' id='word_1_321' title='bbox 337 1901 603 1935; x_wconf 92'>amerikanischen</span>
       <span class='ocrx_word' id='word_1_322' title='bbox 617 1901 826 1936; x_wconf 91'>Zentralbank</span>
