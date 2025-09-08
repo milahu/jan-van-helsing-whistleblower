@@ -130,7 +130,7 @@
       <span class='ocrx_word' id='word_1_94' title='bbox 218 776 272 796; x_wconf 96'>aus</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 285 762 354 796; x_wconf 96'>dem</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 371 761 492 801; x_wconf 92'>Grund,</span>
-      <span class='ocrx_word' id='word_1_97' title='bbox 507 761 578 796; x_wconf 87'>weıl</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 507 761 578 796; x_wconf 87'>weil</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 589 761 650 796; x_wconf 96'>sich</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 663 761 712 796; x_wconf 93'>die</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 726 761 885 795; x_wconf 91'>Bankiers-</span>
@@ -220,7 +220,7 @@
       <span class='ocrx_word' id='word_1_170' title='bbox 561 1141 619 1173; x_wconf 96' lang='eng'>wir</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 629 1152 667 1172; x_wconf 96'>zu</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 681 1148 734 1172; x_wconf 96' lang='eng'>tun</span>
-      <span class='ocrx_word' id='word_1_173' title='bbox 746 1136 903 1172; x_wconf 83'>haben.“®</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 746 1136 903 1172; x_wconf 83'>haben.“<sup>(4)</sup></span>
      </span>
     </p>
 
@@ -415,6 +415,7 @@
      </span>
      <span class='ocr_line' id='line_1_32' title="bbox 164 1998 1474 2045; baseline -0.003 -10; x_size 44; x_descenders 10; x_ascenders 14">
       <span class='ocrx_word' id='word_1_334' title='bbox 164 2000 272 2045; x_wconf 90'>köpfe!</span>
+      <!-- ooh bullshit -->
       <span class='ocrx_word' id='word_1_335' title='bbox 292 2002 357 2035; x_wconf 96'>Das</span>
       <span class='ocrx_word' id='word_1_336' title='bbox 374 2000 459 2035; x_wconf 96'>hatte</span>
       <span class='ocrx_word' id='word_1_337' title='bbox 477 2000 592 2034; x_wconf 96'>damals</span>
@@ -442,14 +443,17 @@
      <span class='ocr_line' id='line_1_34' title="bbox 164 2106 1476 2151; baseline -0.002 -9; x_size 39; x_descenders 5; x_ascenders 14">
       <span class='ocrx_word' id='word_1_356' title='bbox 164 2109 277 2142; x_wconf 96'>Riesen</span>
       <span class='ocrx_word' id='word_1_357' title='bbox 293 2108 376 2148; x_wconf 95'>fand,</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_358' title='bbox 393 2108 441 2142; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_359' title='bbox 457 2109 533 2142; x_wconf 93'>zwei</span>
       <span class='ocrx_word' id='word_1_360' title='bbox 549 2108 772 2142; x_wconf 92'>Gebissreihen</span>
       <span class='ocrx_word' id='word_1_361' title='bbox 787 2108 895 2142; x_wconf 96'>hatten</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_362' title='bbox 910 2107 975 2141; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_363' title='bbox 990 2107 1078 2141; x_wconf 96'>sechs</span>
       <span class='ocrx_word' id='word_1_364' title='bbox 1094 2108 1206 2151; x_wconf 96'>Finger</span>
       <span class='ocrx_word' id='word_1_365' title='bbox 1220 2106 1399 2145; x_wconf 96'>aufwiesen,</span>
+      <!-- bullshit! -->
       <span class='ocrx_word' id='word_1_366' title='bbox 1413 2119 1476 2139; x_wconf 96'>war</span>
      </span>
     </p>
