@@ -83,6 +83,7 @@
       <span class='ocrx_word' id='word_1_55' title='bbox 848 518 887 539; x_wconf 93'>zu</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 902 505 1116 539; x_wconf 92'>humanoiden</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1130 504 1409 539; x_wconf 96'>Außerirdischen.</span>
+      <!-- ooh bullshit -->
      </span>
      <span class='ocr_line' id='line_1_7' title="bbox 104 558 1411 603; baseline 0 -11; x_size 40; x_descenders 5; x_ascenders 15">
       <span class='ocrx_word' id='word_1_58' title='bbox 104 560 223 592; x_wconf 92'>Mutwa</span>
@@ -112,6 +113,7 @@
      <span class='ocr_line' id='line_1_9' title="bbox 104 665 319 710; baseline 0.005 -11; x_size 44; x_descenders 10; x_ascenders 14">
       <span class='ocrx_word' id='word_1_79' title='bbox 104 665 232 700; x_wconf 92'>dischen</span>
       <span class='ocrx_word' id='word_1_80' title='bbox 246 666 319 710; x_wconf 95'>gibt.</span>
+      <!-- bullshit -->
      </span>
     </p>
 
@@ -261,7 +263,7 @@
       <span class='ocrx_word' id='word_1_197' title='bbox 1060 1314 1116 1346; x_wconf 96'>wir</span>
       <span class='ocrx_word' id='word_1_198' title='bbox 1137 1318 1241 1357; x_wconf 96'>später</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 1260 1326 1324 1346; x_wconf 96' lang='eng'>von</span>
-      <span class='ocrx_word' id='word_1_200' title='bbox 1346 1312 1411 1346; x_wconf 92'>ıhm</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 1346 1312 1411 1346; x_wconf 92'>ihm</span>
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 102 1365 1412 1411; baseline 0 -11; x_size 46; x_descenders 11; x_ascenders 15">
       <span class='ocrx_word' id='word_1_201' title='bbox 102 1365 186 1400; x_wconf 95'>noch</span>
