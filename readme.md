@@ -69,6 +69,10 @@ jan-van-helsing.whistleblower.2016.300dpi.tiff.german.book.scan
 magnet:?xt=urn:btih:9fc4de8e3a29fbbbd0059d6da68f1bfeeeaf1378&dn=jan-van-helsing.whistleblower.2016.300dpi.tiff.german.book.scan&xl=393686358&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&tr=udp%3A%2F%2F5.255.124.190%3A6969%2Fannounce&tr=udp%3A%2F%2F5.45.69.185%3A6969%2Fannounce&tr=http%3A%2F%2Fopentracker.r4sas.i2p%2Fa
 ```
 
+## epub
+
+- [github.com/milahu/jan-van-helsing-whistleblower-epub](https://github.com/milahu/jan-van-helsing-whistleblower-epub)
+
 ## mirrors
 
 - https://github.com/milahu/jan-van-helsing-whistleblower
